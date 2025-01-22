@@ -1,0 +1,89 @@
+{
+  "title": "244721 - Embedded Software Developer (Co-op)",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "WORK DURATION: 4 OR 8 MONTHS - 8 MONTHS PREFERRED (An 8 month employment period is registered as 2 separate, consecutive work terms.). Please state CLEARLY in your cover letter whether you are available for 4 and/or 8 months.\n\nNote For Engineering Undergraduate Students: Before applying to this posting, it is your responsibility to have completed the appropriate pre-requisite courses for this length of work term, and to understand how this length of work term affects your academics. If this means you will be registered in a 5th or higher work term, the full co-op tuition fee (equal to two installments) will be charged for each additional work term above the mandatory four.\n\nNEED HELP TO RELOCATE? If you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section \"Co-operative Education Travel Awards for Work Terms outside Victoria\"."
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months or 8 Months, but 8 Months Preferred"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Embedded Software Developer (Co-op)"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Vancouver"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "No"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "24-28/hour"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "As a developer at Zaber, you will work on projects critical to Zaber's motion control product line. This is a great opportunity to learn how to develop embedded software in a commercial environment from the requirements gathering stage to implementation and testing. The code you write will be released and in the hands of real customers. You'll participate in our thorough code review process with some of our experienced developers.\n\nYou'll join, and be mentored by, a team of developers building the next generation of motion control software, targeting high speed and high torque applications, which require nanometer accuracy. You'll work on products that need to perform real-time motor control while minimizing complexity for end-users.\n\nZaber manufactures precision motion control equipment for applications in fields such as photonics, biotechnology, aerospace, and semiconductor engineering. For the past 20 years, Zaber has provided powerful motion control solutions for industry and for scientific research.\n\nEmbedded Software Developer Responsibilities\n\nIn this position, you'll work as part of a team to implement and expand the features used to control our actuators and stages. The work is varied, and you can expect to:\nDesign and implement features in C++ on an ARM microcontroller (you'll be working on this API).\nCollect requirements from other teams (e.g. Customer Support, Mechanical, and/or Production) and use them to design new features.\nWrite unit and integration tests.\nResearch and deploy tools to manage our workflow.\nDocument code and embedded software features for developers, internal users, and customers.\nCheck out what our previous co-ops have worked on here.\n\nEmbedded Software Developer Qualifications\n\nYou have experience programming and you are familiar with best development and testing practices.\nYou dig deep and seek to understand the fundamental concepts of whichever programming language you're using.\nYou are experienced with C++ (use in low-level or systems programming is a bonus).\nYou are excited to write software that makes things move in the real world, and are interested in mechatronics.\nYou like problem solving, challenges, and the process of learning - you dive in when you see behaviour you don't think makes sense.\nYou are enthusiastic about working on a Firmware team.\nYou pay attention to details and have thorough testing and documentation practices.\nYou are currently enrolled in a degree or diploma program.\n\nEmbedded Software Developer Details:\n\nWage: $24 - $28/hour depending on experience.\nClosing Date: January 20, 2024\nStart Start: May 2024\nLength of position: 8 months preferred\n\nTo learn more about our company culture and previous co-op experiences, visit our careers page."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "You have experience programming and you are familiar with best development and testing practices.\nYou dig deep and seek to understand the fundamental concepts of whichever programming language you're using.\nYou are experienced with C++ (use in low-level or systems programming is a bonus).\nYou are excited to write software that makes things move in the real world, and are interested in mechatronics.\nYou like problem solving, challenges, and the process of learning - you dive in when you see behaviour you don't think makes sense.\nYou are enthusiastic about working on a Firmware team.\nYou pay attention to details and have thorough testing and documentation practices.\nYou are currently enrolled in a degree or diploma program."
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

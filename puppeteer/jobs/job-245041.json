@@ -1,0 +1,89 @@
+{
+  "title": "245041 - Junior ASIC Engineer",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "8 OR 12 MONTH WORK TERM\n\nWork Duration: 8 or 12 months (An 8 month employment period is registered as 2 separate, consecutive work terms, and a 12 month employment period is registered as 3 separate, consecutive work terms). Please state CLEARLY in your cover letter whether you are available for 8 and/or 12 months.\n\nNote For Engineering Undergraduate Students: Before applying to this posting, it is your responsibility to have completed the appropriate pre-requisite courses for this length of work term, and to understand how this length of work term affects your academics. Engineering undergrads -- If this means you will be registered in a 5th or higher work term, the full co-op tuition fee (equal to two installments) will be charged for each extra work term above the mandatory four.\n\nLOCATION IS NOT IN VICTORIA\nIt is recommended that you speak to your ability to relocate for this position in your cover letter. If you are taking courses in / are from the job location, it is recommended that you mention this in your cover letter. Please do not apply for this position if you are not willing to relocate for the duration of the work term without expectation of remuneration.\n\nNEED HELP TO RELOCATE?\n\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "8 or 12 Months"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Junior ASIC Engineer"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Vancouver"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, partially remote (hybrid)"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/01/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "12/31/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Junior ASIC Engineer (Intern)\nHybrid (2 days onsite) in Canada, Vancouver\n\nCorporate Introduction\nAs a founding premier member of RISC-V International, Andes is the leading supplier and technological innovator in the RISC-V market with a wide range of processor products fulfilling performance/area/power requirements. Andes has perfected the technology of quick and efficient design of custom extensions to its proprietary CPU. With over 10 billion cumulative shipments of SoCs embedded with Andes CPU IP, Andes products have covered audio, Bluetooth, gaming, GPS, machine learning, MCU and more. Our design innovation enables us to quickly adapt to the rapidly evolving demands of RISC-V customers.\n\nFounded in 2005, Andes yearly revenue has tripled in size from $10 million in 2017 to $30 million in 2021. Andes was ranked among \"100 Fastest-Growing Companies\" in 2020 by CommonWealth Magazine. Headquartered in Taiwan, Andes is capitalizing on its current growth by branching out its offices to the US and Canada to expand on its current 300 employee workforce. Employees are valued as the key ingredient to the success of the company. They will have an opportunity to create a strong and positive impact on the company, where feedback is encouraged and implemented.\n\nHome Page\nhttp://www.andestech.com/en/homepage/\n\nRole\nYou will be a part of the VLSI team, which is part of Andes worldwide CPU development team. Andes is a rapidly growing organization, and you will work with a team of experienced architects, designers and DV engineers for building next-generation of RISC-V CPUs.\nAs a junior member of this team, you will have the unique opportunity to learn from veterans of the CPU industry. You will be exposed to multiple phases of the hardware ASIC IP development from concept through design and verification. Initially, you will develop scripts to automate various aspects of our R&D environment. Next, you will be taught RISCV architecture concepts and finally you will be assigned an Andes IP or submodule and be tasked to verify it fully.\n\nPosition Overview\nWe seek 3rd or 4th year Co-op students to join our VLSI team for, preferably, 8-month term effective May 2025.\n\nDaily activities include:\n\nCommunication with peers to discuss technical details\nVerification regression, triage, and functional bug analysis; Create verification tests and constructs that help validate the functionality of designs\nDevelop scripts and flows to automate the verification, synthesis and report generation\nTechnical documentation"
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Technical Requirements\n\nHave studied or completed courses in VLSI / ASIC hardware / digital design, CPU architecture, digital systems, assembly language programming or computer sciences\nHave strong communication skills and a team-player attitude\nHave some domain knowledge of verification techniques and/or digital hardware design concepts\nHave experience, knowledge or strong interest in CPU architecture and assembly languages\nHave experience or knowledge using Verilog, System Verilog\nHave experience or knowledge using Unix and scripting languages such as make, shell, perl or python\nHave experience or knowledge of using version control software such as CVS, Git, Perforce\n\n\nDesirable Skills\n\nStrong desire to learn and willing to devote extra effort to achieve perfection\nStrong team player and possess a positive attitude\n\n\nNumber of Positions\n1\n\nWork Terms\n40 hours per week, Monday through Friday"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "245160 - Software Engineer Co-op/Intern (May-Aug 2025)",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "NEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Software Engineer Co-op/Intern (May-Aug 2025)"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Remote"
+    },
+    {
+      "key": "Region:",
+      "value": "Remote"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, fully remote"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$7,083 / month"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "2"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Software Engineer Co-op/Intern (May-Aug 2025)\nVancouver\n\nWho we are\n\nA Thinking Ape builds communities through mobile games with emergent social play and original IP. We released our first game in 2009 and have been profitable and growing every year since. We are a bottom-up driven company with small teams that have a big focus on ownership and data driven decision making. Our portfolio of games are growing. We are scaling our infrastructure and entering new markets to capitalize on this growth and bring our games to more players. Compensation for this position is $7,083 / month.\n\n\nThe job\n\nAs a Software Development Engineer Co-op, you will be helping build our live mobile games, including Single City, Kingdoms of Heckfire, and Party in my Dorm. as well as the tools and infrastructure needed to run these massively multiplayer online experiences. You will work closely with artists and designers to grow our games from the population of a city to the population of an entire country. You will design services used by a large number of concurrent users, and implement scalable, reliable and maintainable technologies for both client and server. You will have a major impact on the end product, and will be involved in every aspect of its development. Millions of people will use what you create.\n\nYou must be available for a full-time paid internship in the summer of 2025. We are only considering students who will be enrolled in an accredited degree program in the summer of 2025, slated to graduate no earlier than September 2025.\n\n\nWhat you will do\n\nYou will be responsible for implementing features, systems, and tools for our games in live operation. The game backends are built with a Django + MySQL server architecture, while the frontend clients are built using Unity or native iOS/Android depending on the product. You will also:\n\nBuild entire features from front-end client code to back-end server support. Many of our engineers are full stack!\nBecome involved in every aspect of product development, from design to implementation to playtests to metrics analysis.\nConstruct systems that let everyone at the company deploy to our distributed backend without worry.\nCreate tools to automate and optimize processes across disciplines. These might be adding additional player management tools for our community team, data pipeline optimizations for our game designers, or even content pipelines for our art team.\n\nPast co-ops have worked on..\n\nGuild management improvements like the ability to invite people, open clubs that players can join without approval, better club search, and other tools to keep our most active players engaged.\nImplemented a scalable group leaderboard event system full stack. The system guarantees consistency and availability while dozens of players try to contribute progress to their group frequently.\nRevamped data deploy tool to enable multiple game designers to work simultaneously.\nSetup metrics tracking and funnel analysis and experimented with different UI polishes to improve retention.\nWorked on upgrading our data pipeline: processing data and creating different data representations and visualizations to help ATA to make marketing and product decisions.\nRevamped the realm map overview to include real time positions of ongoing marches, key locations on the map and user bookmarked pins!\nImplemented the entire stack for our Second Builder subscription purchase, which included interfacing with both the Google Play Store and Apple App Store, as well as client support.\nOptimized particle systems in-game to significantly reduce peak memory usage.\nDeveloped leaderboard-assigned classes for Shrines to grant players additional perks.\n\nInterview process\n\nResume + screening questions review\nTwo 30-minute technical interviews, back to back with our engineers - expect to write code!\n30-minute Team Fit interview\nOffer\n\nRemote\n\nWe have committed to a remote approach. This means our roles are currently open to candidates who are legally eligible to work in, and located in, Canada between the core hours of 11am - 4pm PST.\n\n\nWhat's in it for you\n\nAt ATA you're offered a flexible, safe, inclusive environment in which you have the autonomy to do your best work, surrounded by a strong team and with the encouragement of supportive leadership that doesn't just care what you're doing, but how you're doing. You're trusted, respected, listened to, cared for and valued. You take on thought-provoking projects and tackle fun problems alongside people who are equally invested in making meaningful contributions and seeing new ideas come to life. You know how your work aligns with the company's goals. Your career is given the space and resources to progress. You accomplish things that make you proud. You are compensated competitively, your health and wellbeing are top priorities and you enjoy plenty of perks. You build communities, take ownership, have wonderful arguments, let the best ideas win and keep growing. You don't just work for ATA, you are an integral part of ATA."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Who we are looking for\n\nYou are currently enrolled in a Bachelor's Degree granting program in a related field\nYou are a tech generalist, a full stack engineer with the desire to work on both client and server side implementations of entire features.\nStrong understanding of object-oriented design, data structures and algorithms.\nYou communicate your thoughts and ideas clearly in code and in writing\nYou have an interest in and play mobile gaming products.\n\n\nWhile everyone on our team is different to thrive here you should ...\n\nBe self motivated, take pride in your work and enjoy huge amounts of ownership\nSet aside your ego and have wonderful arguments with your coworkers in order to create something better than any one person could individually\nChallenge your own assumptions and use data to make decisions whenever possible\nBe passionate about teaching others what you know and continuing your own growth every day\nNot be afraid to fail-you experiment and learn from your mistakes"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

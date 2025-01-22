@@ -1,0 +1,93 @@
+{
+  "title": "244870 - Software Developer",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "LOCATION IS NOT IN VICTORIA\nPlease do not apply for this position if you are not willing to relocate for the duration of the work term without expectation of remuneration.\n\nNEED HELP TO RELOCATE?\n\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Software Developer"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Burnaby"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, partially remote (hybrid)"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Yes"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$6,500 / month"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "08/29/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Arista Networks is an exciting, fast-growing company creating the best software and hardware for running modern datacenter networks. Based in California with a Canadian office in Vancouver, it is run by Silicon Valley veterans and industry titans Andy Bechtolsheim, Ken Duda, and Jayshree Ullal. Arista is developing a new class of integrated network solutions to address the scalability, performance, and reliability requirements of large-scale high performance computing and cloud datacenters. Arista plays a key role in the datacenters of companies ranging from Facebook to Microsoft, from AOL to Comcast, from ESPN to Netflix, from Citigroup to Morgan Stanley.\n\nCheck out jobs.arista.com/university to learn more about our internship program.\n\nWhat's Cool at Arista?\n\n*Cloud* *Software defined networks* *Network virtualization*\nEmpowered engineers. Our engineers are empowered with full responsibility for their projects. Our management structure is flat and lightweight -- you are in charge of delivering your work from design to code to test to customer shipment.\nInsane amount of automation! We have run close to 20 million tests in our mini-data center that operates 24/7. We put a premium on building and using tools that make everyone super-productive. This translates into quicker turnaround times on new features and products for increased revenue with smaller teams.\nWe value openness. No part of the company is off-limits, meaning that our engineers have the chance to work on a variety of different areas. All our interns have the same responsibility as our full timers and get to work side-by-side on important, customer-impacting projects.\n\n\nThe Job\n\nSoftware engineers at Arista deliver product features. The core responsibility is writing the code that drives our products. A software engineer is more than just a coding machine; they drive the whole development process including:\n\ndeciding the features to build\ndriving the design\nwriting the code (duh!) and testing\ndocumenting the feature\nsupporting customers in the field\n\n\nAlong the way, you might:\n\nextend and improve the test infrastructure\nhack on our engineering tools, including p4, django, python, rpm, ...\nwork with sales and business development\n\n\nInterview Information\n\nThe interview will include a 45 minute technical component which will involve coding in C/C++. We expect you to compile and debug your code -- impress us with your problem solving skills along with your coding abilities.\n\nReady to apply?\n\nPlease submit your resume and transcript through the following Google Form.\nWe'll be reaching out to successful applicants by email to schedule interviews!\n*** Please note that we will not be monitoring the Co-op Portals for applications ***\n\nExample Projects\n\nWe don't have time for busy work: every project that we do has customers clamoring for it. Along with quick release cycles and an engineer-oriented culture means we always have a slew of interesting projects to tackle. What project you'll work on at Arista will vary a lot depending on our customer demands and your interests. Here are some sample potential projects:\n\n1) Latency Based Routing (Networking Protocol)\nOur switches run routing protocols that program the hardware with the nexthop for forwarding packets. The nexthop determination is based on some metric of proximity or cost to the destination. For example, the Open Shortest Path First (OSPF) protocol relies on the Dijkstra's algorithm to minimize the number of hops to reach a destination.\nWith Latency Based Routing, the preferred path to a destination has the lowest aggregate delay across several hops. Precautions must be taken to ensure that the protocol converges fast on network events and stable to avoid constant changes in the preferred path. This feature is important for latency sensitive applications run by, for example, financial customers who connect to stock exchanges in multiple locations (New York, Chicago, Tokyo) and demand the lowest delays for receiving market information.\n\n2) Redefining Load Balancing for Future Applications (Networking Protocol)\nThe Internet is glued together by the Border Gateway Protocol (BGP) and Equal Cost Multi Path (ECMP) has been the backbone of resilient network topologies by allowing multiple paths to a destination. With ECMP, the failure of a few links have little impact as the traffic transitions to the remaining links.\nCustomers are now demanding link bandwidth aware traffic load balancing through the Unequal Cost Multi Path (UCMP) extension to BGP which is cutting-edge technology on track to become an RFC standard. The project involves adding ability to match and set/tweak bandwidth advertisements in the BGP policy engine to allow UCMP formation.\n\n3) Shared Strings (Software Infrastructure)\nArista is always concerned about memory efficiency as our switches don't have hard drives, and thus cannot page memory to disk. This means that when you run out of memory, you are hosed. And, as we add more features, we consume more memory. One way we could possibly reduce memory is shared strings. This would be a table per process that contains all unique strings instantiated. Whenever you go to instantiate a new string this table would be checked to see if that string already exists and if so, return a pointer to it. This table would have to be very efficient both in speed and size. Another benefit of this approach is that string comparisons could be very fast: O(1) address comparisons instead of O(length of string) character comparisons.\n\n4) Programmable Operating System on a Switch (Software Defined Networks)\nEOS SDK: Arista's EOS operating system is the first truly extensible network operating system on top of Linux. In addition to the standard Linux APIs, the SDK provides a set of higher-level APIs to enable third party developers to write their agents that run in EOS. It's a set of stable, versioned APIs published on GitHub, available both in C++ and Python. Our largest cloud customers leverage EOS SDK to integrate their custom orchestration, automated-management, and provisioning systems with Arista switches.\nA significant fraction of today's Internet traffic is delivered to you using custom SDN applications that the largest cloud companies such as Netflix or Facebook built using EOS SDK. Projects here involve significant contributions to the maturing EOS SDK by developing new APIs to configure EOS. Your changes will be on GitHub in our EosSdk repository!\n\n5) In-service FPGA Upgrade of Modular Components (Talking to Hardware)\nArista's modular systems have hot swappable components which are inserted or removed on run-time with little performance impact to the system. Such components have FPGAs that are programmed by the hardware team and we would like the ability to easily and reliably upgrade the FPGA image on our products in the field with latest enhancements. This project will give you a chance to get really close to hardware and understand how the system initializes itself.\n\n6) VMTracer ACLs (Cloud Datacenter)\nArista is dedicated to supporting datacenter deployments of our customers. Our integration with a VMWare server keeps the switch informed of the MAC addresses of different virtual machines. The switch monitors the traffic to locate and detect migrations of virtual machines. With this VMTracer capability, an EOS switch can keep specified virtual machines in the same virtual LAN (VLAN) segment.\nThe VMTracer ACLs project provides the ability to seamlessly migrate Access Control List configuration for virtual machines when they migrate. A simple access control list, for example, allows traffic on port 80 for web-server virtual machines or on port 3306 for MySql virtual machines."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "The Ideal Candidate\n\nloves to program and finds satisfaction in creating a well-written piece of code\ndoesn't shy away from hard problems and enjoys the challenge of making reliable software\nwants to work side-by-side with the brightest minds in software, systems, and hardware\nlearns how things work, just for fun or out of curiosity\ncares about the business too\n\n\nYou have (or want to have) experience with some set of:\n\nC / C++\nPython\nHardware / drivers / embedded systems\nNetwork protocols such as TCP/IP, Ethernet\nLinux"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "245033 - Co-op Student - Junior Instrumentation Engineer (23450)",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "You are eligible for the NRC Co-op Program if:\n\nYou attend a Canadian university/college with a recognized co-op program.\nYou possess a minimum \"B\" academic average or equivalent (preference may be given to candidates with a \"B+\" academic average).\nYou are a Canadian Citizen or Permanent Resident of Canada. Additionally, foreign national students who meet the eligibility requirements, are studying in recognized and eligible Canadian educational institution and possess a valid Co-op Work Permit may also apply. For more detailed requirements and information on this possibility, please refer to the information found at Citizenship and Immigration Canada\n\nCondition of Employment - Reliability Status\n\nNEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Co-op Student - Junior Instrumentation Engineer (23450)"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Penticton"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Thompson-Okanagan"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$833 to $1107 per week"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "37.5"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "08/22/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Co-op Student - Junior Instrumentation Engineer\n\nCity:Penticton\nOrganizational Unit: Herzberg Astronomy and Astrophysics\n\nPriority may be given to the following designated employment equity groups: women, Indigenous peoples* (First Nations, Inuit and Métis), persons with disabilities and racialized persons*.\n*The Employment Equity Act, which is under review, uses the terminology Aboriginal peoples andvisible minorities. Candidates are asked to self-declare when applying to this hiring process.\n\nProject Description\nThe HCTF (Hot Cold Test Facility) is used to measure the noise temperature of radio receivers. This is accomplished by taking a series of \"hot/cold\" measurements where an absorber lined roof is closed over the receiver for \"hot\" measurements and then opened to allow the \"cold\" sky to be measured. These measurements often span over days and sometimes require measurements outside working hours.\n\nThe current system is controlled through a Python script which opens and closes the roof, takes absorber temperature and copies spectrum traces from the spectrum analysers. It has been found that this script contains many redundancies which sometimes lead to the system being unreliable. Furthermore this script was done in Python2 which is no longer supported. The current process is also not user friendly with variables needing to be defined throughout the script. There currently does not exist a means to monitor the device under test or a means to do remote measurements.\n\n\nYour Responsibilities\n• Clean up the HCTF control script\n\n• Extensive system testing to make sure it runs reliably.\n\n• Create a user friendly interface as well as writing an operator manual.\n\n• Implement and integrate monitoring capabilities which could be done using a LabJack or similar device.\n\n• Implement additional remote monitor and control capabilities to add safeguards to address system failure or changing weather conditions.\n\n\nLength of Term: This is a «16 week» term.\n\nAnticipated dates: starting Monday, 5 May 2025, ending Friday, 22 August 2025."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Education\nPreferred Education level:\n\nUniversity Undergraduate, preference 4th year in Computer Science / Engineering.\n\nRequirements\n\nProficient in PYTHON\nExperience in software-hardware integration an asset\nUnderstanding of the Software Development process\nMust be Self-motivated\n\n\nEquity, Diversity, Inclusion\nPriority may be given to the following designated employment equity groups: women, Indigenous peoples* (First Nations, Inuit and Métis), persons with disabilities and racialized persons*.\n*The Employment Equity Act, which is under review, uses the terminology Aboriginal peoples and visible minorities.\n\nHerzberg Astronomy and Astrophysics Research Centre is very keen on engaging withdiverse groups, including Indigenous students, in science, technology, and engineering through professional opportunities, as it values diversity of backgrounds, lenses, knowledges, experiences and perspectives, which enriches and nurtures collaboration andinnovation. The merging of knowledge within a team is definitively considered as a strong asset by the organization. Indigenous students will be encouraged to discuss with their supervisor on how the organization can support them in their learning and working experience.\n\nCondition of Employment - Reliability Status\n\nApplication Requirements\nIn order to be considered for the Co-Op program please include the following in your application.Failure to do so will result in your application being excluded from searches.\n\nCover Letter\nResume\nRecent Transcript\n\nWe will accept the most recent university/college transcript available. Please ensure that your full name is clearly indicated on your transcript.\n\nSalary Range: From $833 to $1107 per week (37.5 hrs)\nSalaries are determined based on the student's work term.\n\nThe NRC Advantage\nThe National Research Council of Canada (NRC) is the Government of Canada's largest research organization supporting industrial innovation, the advancement of knowledge and technology development. We collaborate with over 70 colleges, universities and hospitals annually, work with 800 companies on their projects, and provide advice or funding to over 8000 Small and Medium-sized Enterprises (SMEs) each year.\n\nWe bring together the brightest minds to deliver tangible impacts on the lives of Canadians and people around the world. And now, we want to partner with you. Let your expertise and inspirations make an impact by joining the NRC.\n\nAt the NRC Employee wellness matters. We offer flexible work schedules as well as part-time work to help employees maintain work-life balance. We are one of the few federal organizations that close our offices during the December holiday season. We offer professional learning and development opportunities such as conferences, workshops, and a suite of mentorship, award and recognition programs. Diversity enables creativity and innovation. Fostering a diverse, inclusive, welcoming and supportive workplace is important to us, and contributes to a more inclusive Canadian innovation system. We welcome all qualified applicants and encourage you to complete the employment equity self-declaration questions during the job application process. Please let us know of any accommodation measures required to help you to be assessed in a fair and equitable manner. Please note that the information you provide will be treated confidentially.\n\nHelp us solve problems for Canada. Grow your career with us today!\n\nNotes\nA driver's license and car would be useful for personal transportation. Please note that the Dominion Astrophysical Observatory (DAO) is located approximately 15 kilometres from the downtown Victoria. The public transport to the area is not always convenient, but carpooling with observatory staff may be available. A lot of staff also commute by bicycle.\n\nWe thank all students for showing interest in working at NRC HAA; however, only selected candidates will be contacted.\n\nPlease direct your questions, with the requisition number (21165) to: julie-anne.kleinschmit@nrc-cnrc.gc.ca\n\nClosing Date: Monday, 20 January 2025 - 10 am"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

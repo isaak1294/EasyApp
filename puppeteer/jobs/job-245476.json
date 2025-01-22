@@ -1,0 +1,77 @@
+{
+  "title": "245476 - Intern, Software Development (Summer 2005)",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "NEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Intern, Software Development (Summer 2005)"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Remote (in Canada)"
+    },
+    {
+      "key": "Region:",
+      "value": "Remote"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, fully remote"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Your career is an investment that grows over time!\nWealthsimple is on a mission to help everyone achieve financial freedom by reimagining what it means to manage your money. Using smart technology, we take financial services that are often confusing, opaque and expensive and make them transparent and low-cost for everyone. We're the largest fintech company in Canada, with over 4 million users who trust us with more than $50 billion in assets.\nOur teams ship often and make an impact with groundbreaking ideas. We're looking for talented people who keep it simple and value collaboration and humility as we continue to create inclusive and high-performing teams where people can be inspired to do their best work.\nInternships @ Wealthsimple\nAt Wealthsimple, we offer 4 to 8-month internships that are open to co-op and non-co-op students, and recent grads. During your remote-first internship, you will be able to contribute to projects that are changing the landscape of financial services for Canadians. You will be on a team that supports your growth and provides mentorship while also connecting to the broader Wealthsimple community!\n\n\nEngineering @ Wealthsimple\nWealthsimple has several engineering teams ranging from product-focused to back-office and our teams build and manage the software that powers our services. We do this using microservice architecture and an agile approach, focused on short iterations and rigorous automated testing, deploying our code over 100 times a day. We maximize our productivity by building high-performing teams and giving them autonomy to deliver results, working very closely with product management, design and operations to make sure that our work delivers maximum benefit for our clients.\n\n\nThings you should know about our tech before applying:\n\nWe have a microservice architecture with over 100+ services in production\nRoughly half of these services are Ruby on Rails, with the other half being Java/KotlinOur frontend application is a mix of React/Angular\nWe host our services on AWS and use things like RDS, Aurora, SQS, SNS, S3, Kafka, etc.\nWe follow best practices and have great tools for profiling, logging, tracing, tracking and experimenting"
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Eligibility\nCurrently enrolled as a student at a Canadian post-secondary institution or technical bootcamp\nNew graduates - Within 6 months of your graduation date\nAvailable to work full-time hours\nResiding in Canada\n\nWe're looking for people who:\n\nAre driven to ship frequently\nTake ownership in working on projects to successful completion\nEnjoy tackling new, complex challenges on a regular basis\nAre comfortable with self-directed learning\nBelieve that debate, inclusivity and transparency result in better products\nAre eager to learn from your team and others. We value making one another successful!\nAvailable for a 4-month term from May-August 2025"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

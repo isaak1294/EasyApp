@@ -1,0 +1,81 @@
+{
+  "title": "245172 - Firmware Validation Co-Op",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "WORK DURATION: 8 or 12 MONTHS (An 8 month employment period is registered as 2 separate, consecutive work terms, and a 12 month employment period is registered as 3 separate, consecutive work terms). Please state CLEARLY in your cover letter whether you are available for 8 and/or 12 months.\n\nNote For Engineering Undergraduate Students: Before applying to this posting, it is your responsibility to have completed the appropriate pre-requisite courses for this length of work term, and to understand how this length of work term affects your academics. If this means you will be registered in a 5th or higher work term, the full co-op tuition fee (equal to two installments) will be charged for each additional work term above the mandatory four.\n\nNEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section \"Co-operative Education Travel Awards for Work Terms outside Victoria\"."
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "8 or 12 Months"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Firmware Validation Co-Op"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Vancouver"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, partially remote (hybrid)"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "At Motorola Solutions we are helping solve some of the biggest challenges around safety and physical security by developing advanced artificial intelligence (AI) technologies and products that are used to help keep people, businesses, and cities around the world safer. Avigilon, a Motorola Solutions company, designs, develops, and manufactures advanced AI, video analytics, network video management software and hardware, surveillance cameras, and access control solutions that help change the way people interact with their security systems.\n\nAt Motorola Solutions, our co-ops don't wash cars or do coffee runs. They also don't work on side projects. Our co-ops are treated like embedded members on our agile teams and are given the opportunity to learn what being a tester is like in the real world. You'll have the opportunity to learn new technologies and best practices in coding, testing and automation. You'll learn about agile development and what it takes to release an industry leading solution that comprises of hardware, firmware, and software all produced in Vancouver. You'll also have a lot of fun and make a lot of friends.\n\nWe are looking for the best people: smart, creative, passionate about their work, and excited for new challenges.\n\nResponsibilities include:\n\nAssist with development and maintenance of an automated build system\nAssist with development and maintenance of an automated test framework\nImplement programs and scripts that allow automated functional testing of the devices under test (cameras)\nExecute test plans and identify and document any issues discovered during testing\nCollaborate closely with firmware developers to reproduce and resolve any issues uncovered in the tests\nInteract regularly with our Quality Assurance team and ensure correct testing steps are followed\nEstablish a deep understanding of all firmware components and their interactions"
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Qualifications:\n\nProficient with Python or another scripting language\nExcellent problem solving and troubleshooting capability\nExcellent written and oral communication skills\nGood understanding of networking protocols (HTTP, TCP, UDP, IP)\nExperience with test management and issue tracking tools\nExperience with debugging tools and version control systems\nExperience with embedded systems\nExperience with development in a Linux environment\nExperience with C++, Make and bash\nKnowledge of digital imaging/photography and audio/video coding\n\nEEO Statement Motorola Solutions is an Equal Opportunity Employer. We welcome and encourage diversity in our workforce. Motorola Solutions will provide reasonable accommodation to applicants with disabilities upon request."
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "Yes"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

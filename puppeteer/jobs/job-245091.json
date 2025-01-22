@@ -1,0 +1,93 @@
+{
+  "title": "245091 - Software Development Engineer Co-op",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "NEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Software Development Engineer Co-op"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Burnaby"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$22.75-$34.50 per Hour"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "08/29/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "About Microchip Technology\n\n\nAt Microchip, we work every day to innovate and develop products that solve our customers' technology challenges. Our team of more than 20,000 people worldwide is dedicated to delivering on the promise of working together to improve lives.\n\nLearn about our guiding values that are the building blocks and foundation of our culture and discover how we make a positive impact in the communities in which we operate. We believe our culture fosters trust, collaboration and belonging.\n\nOur people serve the industrial, computing, automotive, communications, aerospace and defense, and consumer market segments. As part of our global team, you can build technology solutions in our six growth areas - 5G, data centers, autonomous driving, the Internet of Things, electric vehicles, and artificial intelligence and machine learning.\n\nAbout the Job:\n\nWe are looking for an energetic and self-motivated student to work with our firmware verification team in the Communication Business Unit at Microchip. We are building firmware for the high performance System on Chip (SoC) devices developed by our hardware teams. These SoC products contain clusters of CPUs, data switching subsystems and a variety of high speed and low speed interfaces. They support the aerospace and communications markets as well as a growing number of applications in next generation embedded systems.\n\nOur focus is on technical excellence, teamwork, collaboration, and continuous improvements in an open and encouraging environment. If you have an interest in embedded software/firmware verification, embedded systems, and communications protocols (Ethernet, Optical Networks), then this is the position for you! Our team uses modern software development practices such as Agile/Scrum and Continuous Integration / Delivery.\n\nAs a Firmware Verification Engineering student, you will be part of a team that designs and implements tests for embedded software and drivers for modern System-on-Chip (SoC) devices which runs Linux/RTOSs and contains multi-CPU clusters, ethernet switches, high speed interfaces (PCIe/CXL) and memory & peripheral interfaces. You will assist the firmware verification team in several areas such as:\n\nWriting/debugging system level tests in Python\nDeveloping/supporting the Python test framework\nSupporting the hardware evaluation boards in the lab\nMaintaining/enhancing the automated regression test environment (Jenkins)\n\nThis position is a good stepping-stone to gain experience in working with enterprise-level firmware using modern software development tools and practices.\n\nResponsibilities\n\nDesign, develop, and debug Python tests to verify firmware and maintain these tests in regression\nDebugging software/hardware to root cause test failures\nMaintaining/enhancing our automated regression test environment (Jenkins)\nDeveloping / supporting our test framework for both pre-silicon and post-silicon testing\nSetup and configuration of 3rd party test equipment and evaluations boards for SW verification\nWriting and reviewing comprehensive engineering documentation\nEntry and tracking of issues in corporate tracking and resolution tools\nWork with the product development, application, and validation engineering teams as part of test related activities"
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Qualifications\n\nEnrolled in a Bachelor's Degree in Electrical Engineering, Computer Engineering, or equivalent.\nStrong knowledge of C/C++ and Python programming\nMust be comfortable in a lab environment engaging in hardware/software/firmware debug\nKnowledge of Real-Time operating constructs is an asset\nExperience with FPGA/ASICs is an asset\nExcellent analytical, problem solving, communication, and documentation skills\nDemonstrated a systematic approach to problem-solving within a team and on your own\nStrong interpersonal skills, experience as part of a collaborative development team"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

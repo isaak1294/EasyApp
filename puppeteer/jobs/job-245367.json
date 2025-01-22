@@ -1,0 +1,77 @@
+{
+  "title": "245367 - Quality Assurance Engineer Co-op",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "FUNDING RESTRICTION TO ELIGIBILITY (SWPP)\n\nThis position is offered subject to funding being approved through the federal Student Work Placement Program. Funding approval depends on several factors, including student eligibility. To be eligible for this funding program you must be:\n\nRegistered in a Canadian post secondary education institution\nCanadian citizen, permanent resident or person with refugee protection given under the law\nLegally able to work in Canada according to the laws and regulations of the province or territory where you live\nHired as an employee, not as an independent contractor.\n\nWORK DURATION: 8 or 12 MONTHS (An 8 month employment period is registered as 2 separate, consecutive work terms, and a 12 month employment period is registered as 3 separate, consecutive work terms). Please state CLEARLY in your cover letter whether you are available for 8 and/or 12 months.\n\nNote For Engineering Undergraduate Students: Before applying to this posting, it is your responsibility to have completed the appropriate pre-requisite courses for this length of work term, and to understand how this length of work term affects your academics. If this means you will be registered in a 5th or higher work term, the full co-op tuition fee (equal to two installments) will be charged for each additional work term above the mandatory four.\n\nNEED HELP TO RELOCATE? If you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section \"Co-operative Education Travel Awards for Work Terms outside Victoria\"."
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "8 or 12 Months"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Quality Assurance Engineer Co-op"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Vancouver"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "About Us\n\nAs a result of global decarbonization, prosumers are enabled to generate and consume electricity from distributed energy resources (DERs: renewable energy, EVs, heat pumps, and batteries), thereby changing the way electricity is generated and distributed. This new form of decentralized electricity generation and consumption causes unpredictable fluctuations in power quality and electricity surges, facilitating massive changes in business models. Corinex is a Cleantech company that provides technology solutions at the center of this transformation on the local level of the grid, offering high-speed and secure connectivity, monitoring, and control of DERs on utilities' existing powerline infrastructure. Corinex is the pioneer of the industry with standardized solutions. It has a remarkable industry leadership in the fast-growing mass market, as testified by the company's international growth while maintaining profitability.\n\nCorinex offers a fast-paced, exciting, and collaborative work environment deeply rooted in the entrepreneurial spirit. Certified as a Great Place to Work, our employees are a critical part of our company's performance and are at the core of its success. We are looking for people who are passionate about changing the world and bring energy, enthusiasm, creativity, and an open mind to everything they do. We work hard but also play and laugh even harder, always in a respectful way. We enjoy being leaders in what we do and appreciate risk-takers, dreamers, and leaders with strong execution skills.\n\nIf you are looking for an opportunity to work at a Clean Tech company that is a significant contributor to worldwide decarbonization through unique, breakthrough technology already validated by markets, we want to hear from you!\n\nPosition Overview:\n\nJoin us as a Quality Assurance Engineer co-op student, where you'll work with our QA team, ensuring top-tier product quality and unparalleled customer satisfaction. In this role, you'll assist with quality assurance processes, and collaborate with cross-functional departments to elevate our quality benchmarks.\n\nResponsibilities:\n\nAssist with the development and upkeep of automatic testing systems.\nCollaborate closely with firmware, software developers, and hardware engineers to validate smart metering solutions.\nAssist with defining essential testing systems.\nGenerate and execute test plans, cases, and scripts and escalate critical issues to the Project Manager.\nAnalyze test results to recommend corrective actions and forestall issues within products, processes, or quality systems.\nDocument and communicate issues."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Technical Skills:\n\nMandatory: Proficiency in Linux, familiarity with SQL, and basic network troubleshooting skills.\nAssets: Proficiency in Python, Shell scripting, and Java. Experience with Robot Framework and Selenium for test automation.\nExperience in version control systems like Git and adeptness in communication protocols (TCP, MQTT, HTTPS).\nUnderstanding of Broadband over Power Lines solutions or related leading-edge technologies, is a significant advantage.\nKnowledge of software development quality processes and build and release management.\n\nRequirements:\n\nCompletion of a minimum of two years of a Bachelor's degree in Computer Science or a related discipline.\nStrong communication and collaboration skills across departments.\nPrevious experience in regulatory compliance and a steadfast commitment to industry-relevant quality standards is considered an asset.\n\nBenefits:\n\nCompetitive salary and benefits package.\nOpportunities for professional development and growth.\nA dynamic and collaborative work environment fostering innovation.\n\nJoin Us! At Corinex, we are proud to be an equal opportunity employer. We are dedicated to fostering an inclusive, supportive, and rewarding work environment where your skills and talents can flourish!"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "Yes"
+    }
+  ]
+}

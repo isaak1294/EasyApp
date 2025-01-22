@@ -1,0 +1,16 @@
+{
+    "name": "jobApplier9000",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+        "puppeteer-extra": "^3.1.10",
+        "fs/promises": "^2.0.0",
+        "path": "^0.12.7",
+        "puppeteer-extra-plugin-stealth": "^2.7.0"
+    }
+  }

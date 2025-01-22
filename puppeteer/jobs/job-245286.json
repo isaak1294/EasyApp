@@ -1,0 +1,89 @@
+{
+  "title": "245286 - Embedded Electronics Engineer Co-op",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "THIS POSITION IS SUBJECT TO FUNDING\nThis position is offered subject to funding being approved through the federal Student Work Placement Program. Funding approval depends on several factors, including student eligibility.\n\nTo be eligible for this funding program you must be:\n\nRegistered in a Canadian post secondary education institution\nCanadian citizen, permanent resident or person with refugee protection given under the law; and\nLegally able to work in Canada according to the laws and regulations of the province or territory where you live\nHired as an employee, not as an independent contractor.\n\n8 MONTH WORK TERM\n\nWork Duration: 8 months (An 8 month employment period is registered as 2 separate, consecutive work terms). Please ONLY apply if you are available for 8 months, and state your availability CLEARLY in your cover letter.\n\nNote For Engineering Undergraduate Students: Before applying to this posting, it is your responsibility to have completed the appropriate pre-requisite courses for this length of work term, and to understand how this length of work term affects your academics. Engineering undergrads -- If this means you will be registered in a 5th or higher work term, the full co-op tuition fee (equal to two installments) will be charged for each extra work term above the mandatory four."
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "8 Months Full Time (2 Work Terms)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Embedded Electronics Engineer Co-op"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Victoria"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Victoria (Capital Region)"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "Yes, fully remote"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$3000/month"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/01/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Position: Embedded Electronics Engineer Co-op\nOrganization: Salyx\nDuration: 8 months\nStart date: May 1st, 2025\nLocation: Victoria, BC\nCompensation: 3,020 gross monthly for working 40 hours per week\n\nCompany Description\nSalyx is a MedTech company that develops innovative e-health IoT devices that connect to cloud services and mobile apps. Our ecosystem is part of a new Smart Monitoring Solution. The Salyx Health Device monitors more than five key health vital signals and warns the user of abnormal levels. Unlike other trackers in the industry, the Salyx Tracker requires minimal user intervention and brings the logging functionality of hospital technology right to your home.\n\n\nOur company website\n\nJob Description\nWe are looking for an Embedded Electronics Engineer to join our Hardware Development team. We are looking for an independent and self-driven Engineer who wants to see his contributions and knowledge have a significant impact on the product. You will work autonomously under the guidance of an experienced supervisor and will collaborate closely with a dedicated team of skilled engineers, fostering a dynamic feedback loop where you provide and receive high-level feedback.\n\nDuties and Responsibilities\n\nDevelop firmware in C++, C for an IoT device to achieve mass production readiness.\nCommunication protocol development for cloud interaction including HTTP, MQTT.\nFirmware update implementation through OTA\n\nContact\nPlease apply with your resume and transcript to hr@salyxmedical.com.\n\nWe believe that diversity, equity and inclusion are the foundation for innovation and is an integral part of our business. We believe that success happens where new ideas can flourish - in an inclusive environment that is rich in diversity and a place where people from various backgrounds can work together. As an equal-opportunity employer, Salyx Medical Inc encourages applications from all qualified individuals, including candidates from underrepresented groups and communities. We invite all qualified candidates to apply online with their resume and cover letter."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Knowledge and Skills\n\nExperience with C and C++. Knowledge of Python is a must\nKnowledge of serial communication protocols such as (UART, I2C, LIN)\nExperience using Nordic microcontrollers, platform.io IDE and SoC microcontrollers\nExperience with RTOS\nExperience with version control systems (Git)\nAble to read electronic schematics (KiCAD)\nExperience with circuit troubleshooting, debugging, and diagnostics using multimeters, oscilloscopes, and other instrumentation is a plus\nKnowledge of UL, FCC standards is recommended.\nWireless communication protocol knowledge is recommended.\nExperience with PCB design and electronic circuits is a plus\nPersonal/Group Electronics projects are a plus\nExcellent communication skills, self-managing, and detail-oriented\nA desire to positively affect their environment\nSelf-organized and time-efficient.\nBe able to work on independent projects from start to finish.\n\nAcademic Requirements\nCurrently enrolled in a Bachelor's Degree in Computer Engineering, Computer Science, Biomedical, Electrical, or Mechatronics in third year or above.\n\nOther Requirements\nBeing a Canadian Citizen, Permanent Resident or have refugee status is required as this position is grant-funded by the Canadian Government."
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "Yes"
+    }
+  ]
+}

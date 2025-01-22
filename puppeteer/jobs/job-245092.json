@@ -1,0 +1,93 @@
+{
+  "title": "245092 - Validation Engineer Co-op",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "NEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "Validation Engineer Co-op"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Burnaby"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$22.75-$34.50 per Hour"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "08/29/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "Develop tomorrow's technology today\n\nBuilding tomorrow's technology doesn't just take hard work. It also takes teamwork, talent, and a desire to go \"above and beyond\". Together, these make the impossible possible. This is Engineering at Microchip.\n\nWe are Microchip's Communications Business Unit (CBU), a premier supplier for 100Gbps+ networking and System on Chip (SoC) devices. We develop next-generation technologies that are revolutionizing communications and the Internet. Our award-winning products are used by major technology companies to enable high performance spaceflight computing and high-bandwidth, cloud-based applications such as streaming services, social media platforms and video conferencing. We make it happen.\n\nOur Systems Engineering group is looking for an enthusiastic individual to join our team as we validate leading-edge semiconductor devices. We invent systems and tests to ensure Microchip's brand-new products operate correctly in their intended applications. We require dynamic, versatile engineers who want to participate in design, bring up, and test of complete systems (boards, ICs, firmware, and software). You will work closely with leading edge technologies such as Ethernet, PCI Express, FPGAs, fiber optics, 112Gbps SERDES, and RISC-V embedded processors. You will experience limitless learning and growth opportunities. Your work will add real value to Microchip's products.\n\nAs a member of our team, you must be highly motivated to learn, have first-class debugging and problem-solving skills, be motivated to develop sophisticated hardware and software platforms, and be able to quickly master the devices and systems that Microchip develops.\n\nWhat we do:\n\nDesign high-speed boards (up to 112 Gbps) using Microchip and third-party ICs, digital and analog circuits, and large programmable devices.\nDesign highly integrated, sophisticated FPGAs using VHDL/SystemVerilog.\nIntegrate complex test platforms containing multiple CPUs, high speed backplanes, traffic generation devices/testers, software, and our boards.\nPlan and execute device feature tests, including results analysis, bug detection, and extensive root-cause analysis using Python and C/C++.\nWork with leading edge test equipment such as 800GE Ethernet testers, oscilloscopes, phase noise analyzers, network analyzers, and microprocessor trace probes.\nIntegrate software SDK to control our hardware systems.\nCreate application-level system configuration scripts to control the device, the test platform, and the test equipment using Python.\nCreate embedded processor test applications to benchmark and stress multi-core SOCs using C/C++\nTroubleshoot and resolve complex problems in embedded multi-core SOCs.\nWork closely with and support members of the Product Design, Verification, Software, Software Test, Applications, Marketing, and Product Engineering teams.\nAdd value to our devices by finding issues and developing and testing solutions.\n\nWhat we offer:\n\nContinuous technical innovation in a fast paced and engaging environment.\n\nContinuous career development with training opportunities.\n\nOpportunity to impact today's technology to enable tomorrow's applications."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Required Skill Set:\n\nYou want to be part of an exciting, dynamic, and challenging work environment, requiring rapid and constant learning and skills development.\nYou have a systematic approach to problem-solving within a team and on your own. When something isn't working properly, it's important to you to figure out why.\n\nPreferred Skill Set:\n\nExcellent analytical, communication, and documentation skills.\n1 to 2 related COOP experiences.\nThe more experience with these, the better:\nDesigning electronic hardware and systems.\nFPGAs and HDL languages such as VHDL/ System Verilog design.\nPython and/or other scripting languages like TCL, Perl.\nC driver API development.\nLab test equipment.\nEmbedded Linux, RTEMS, VxWorks operating systems.\nRISC-V Processors.\nRelated COOP experiences"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "2"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}

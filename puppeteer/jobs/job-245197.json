@@ -1,0 +1,93 @@
+{
+  "title": "245197 - DCS VALIDATION ENGINEER CO-OP",
+  "details": [
+    {
+      "key": "Special Job Requirements:",
+      "value": "NEED HELP TO RELOCATE?\nIf you're traveling outside Victoria for a co-op work term, you may be eligible for a limited $1,000 travel stipend through the Strategic Framework Experiential Learning Fund (SF-ELF). For details, see the section Co-operative Education Travel Awards for Work Terms outside Victoria"
+    },
+    {
+      "key": "Co-op Work Term:",
+      "value": "2025 - Summer"
+    },
+    {
+      "key": "Position Type (Disclaimer: not all types available in all programs):",
+      "value": "Regular Co-op, Full Time"
+    },
+    {
+      "key": "Co-op Work term Duration:",
+      "value": "4 Months (12-18 weeks) Full Time (1 Work Term)"
+    },
+    {
+      "key": "Job Title:",
+      "value": "DCS VALIDATION ENGINEER CO-OP"
+    },
+    {
+      "key": "Job Location:",
+      "value": "Burnaby"
+    },
+    {
+      "key": "Region:",
+      "value": "BC-Greater Vancouver"
+    },
+    {
+      "key": "Are remote work arrangements possible for this co-op role?:",
+      "value": "No, fully in-person/at work-site"
+    },
+    {
+      "key": "Does this job require the student to be fully vaccinated for COVID-19?:",
+      "value": "Unknown"
+    },
+    {
+      "key": "Is this a contractor role?:",
+      "value": "No"
+    },
+    {
+      "key": "Salary/Wage:",
+      "value": "$22.75-$34.50 per Hour"
+    },
+    {
+      "key": "Hours per Week:",
+      "value": "40"
+    },
+    {
+      "key": "Start Date:",
+      "value": "05/05/2025"
+    },
+    {
+      "key": "End Date:",
+      "value": "08/22/2025"
+    },
+    {
+      "key": "Number of Positions:",
+      "value": "1"
+    },
+    {
+      "key": "Work Abroad:",
+      "value": "No"
+    },
+    {
+      "key": "Job Description:",
+      "value": "DCS VALIDATION ENGINEER CO-OP\nDivision: DCS Arch & Validation\n\nThe System Engineering group is responsible for ensuring that the end products operate fully in their intended applications. This involves the planning, design, integration, test and documentation of a complete system level platform used to test the prototype System-on-Chip (Soc) along with associated Firmware (FW) & Software (SW). The System Validation Engineer works in parallel with IC and FW engineers to design an appropriate test system. This can involve test FW development, FPGA VHDL/Verilog coding, digital/analog board designs and test script coding.\n\nUsing these systems, together with the latest communication analyzers and test equipment, the System Validation Design Engineer will execute a Feature Test Plan that fully validates all features of the prototype SoC and associated FW. The System Validation Design Engineer will be involved with existing and newly drafted standards used in Cloud Storage, Data Center and other high performance computing applications such as including PCIe, NVMe and others.\n\nResponsibilities\n\nAs a Validation Engineer Co-Op, you would be assigned one or more of these activities:\n\nDesigning, building and debugging complete systems designed to test Hardware, Software & Firmware.\nDevelop new software and/or hardware tools to aid in automation, testing & debug\nApplication level Tcl/Tk scripting for automated control of the test systems\nTroubleshoot and resolve problems related to test setup configuration & validation test failures.\nInstalling & configuration of server operating systems.\nOperate basic lab equipment to measure performance & analyze device behavior\nPresent technical information to small teams of engineers.\n\nYou will work as part of a team to develop, execute and document a series of Feature Tests that will fully validate the operation of the prototype SoC as part of the overall system. These feature tests will exercise the various functional blocks of a prototype IC & associated FW/SW to ensure the system meets designed criteria and industry standards."
+    },
+    {
+      "key": "Qualifications:",
+      "value": "Qualifications\n\nRequired\n\nExcellent communication and documentation skills\nExcellent analytical skills\nInterest in design & test of digital and analog circuits, high performance computing systems\nExperience in software programming (compiled or scripting languages such as C/C++ and/or Tcl/Tk)\nAbility to learn quickly & ramp up on new topics & technologies\nAbility to read basic electronic circuit schematics\nKnowledge of basic computer/microprocessor architecture\nKnowledge/experience in using basic lab equipment (multimeters, power supplies, oscilloscopes, etc)\n\nDesirable\n\nKnowledge of RTOS and multi-core programming aspects\nKnowledge of Computer Interconnect Protocols (e.g. PCIe, I2C, SPI, TCP/IP, etc)\nExperience /Knowledge of high speed digital and analog circuitry\nKnowledge of FPGA's and VHDL or Verilog coding"
+    },
+    {
+      "key": "For relevant employers as defined by the BC Criminal Review Act: Will this position require a co-op student to complete a Criminal Records check?:",
+      "value": "No"
+    },
+    {
+      "key": "Minimum Academic Year Completed:",
+      "value": "1"
+    },
+    {
+      "key": "Minimum Work terms Completed:",
+      "value": "0"
+    },
+    {
+      "key": "Are there any restrictions that would hinder hiring of non-Canadian students with a valid work permit?:",
+      "value": "No"
+    }
+  ]
+}
