@@ -31,7 +31,6 @@ def compile_tex(tex_path, output_pdf_path):
 
     except subprocess.CalledProcessError as e:
         print(f"Error during pdflatex execution: {e.stderr.decode()}")
-        raise
 
 def remove_aux_files(tex_dir):
         # Remove auxiliary files
@@ -118,12 +117,12 @@ class ResumeGenerator:
                         resume_filename,
                         f"package/{resume_filename}.pdf"
                     )
-                    exit
+                    break
                 except subprocess.CalledProcessError as e:
                     print(f"PDF generation failed {i} time(s), retrying")
                     i += 1
                     message = self.client.messages.create(
-                        model="claude-3-sonnet-20240229",
+                        model="claude-3-5-sonnet-20241022",
                         max_tokens=4000,
                         messages=[
                             {"role": "user", "content": resume_prompt}
@@ -169,7 +168,7 @@ class ResumeGenerator:
             """
             
             message = self.client.messages.create(
-                model="claude-3-sonnet-20240229",
+                model="claude-3-5-sonnet-20241022",
                 max_tokens=4000,
                 messages=[
                     {"role": "user", "content": cover_letter_prompt}
@@ -191,12 +190,12 @@ class ResumeGenerator:
                         cover_letter_filename,
                         f"package/{cover_letter_filename}.pdf"
                     )
-                    exit
+                    break
                 except subprocess.CalledProcessError as e:
                     print(f"Latex generation failed {i} time(s), retrying")
                     i += 1
                     message = self.client.messages.create(
-                        model="claude-3-sonnet-20240229",
+                        model="claude-3-5-sonnet-20241022",
                         max_tokens=4000,
                         messages=[
                             {"role": "user", "content": cover_letter_prompt}
@@ -217,7 +216,7 @@ class ResumeGenerator:
 
 def main():
     user_input = input("input the ids of the jobs you want to apply for separated by spaces")
-    ids = list(map(int, user_input.split()))
+    ids = list(map(str, user_input.split()))
     # Load API key from json
     with open('local.json', 'r') as f:
         user_data = json.load(f)
@@ -262,9 +261,11 @@ def main():
         
     
     # Process each job
+    print(ids)
     for job in jobs_data:
         # Load detailed job description
         job_id = job.get('id', '')
+        print(job_id)
         if job_id not in ids:
             continue
             
