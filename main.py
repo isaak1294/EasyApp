@@ -3,7 +3,6 @@ import json
 import os
 from pathlib import Path
 from datetime import datetime
-from pdflatex import PDFLaTeX
 import subprocess
 
 os.environ['ANTHROPIC_API_KEY'] = ''
